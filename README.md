@@ -1,2 +1,2 @@
 # freerobux2022
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+ [[https://raw.githubusercontent.com/neon-original-official/freerobux2022/master/Desain%20tanpa%20judul.png|alt=robux]]
